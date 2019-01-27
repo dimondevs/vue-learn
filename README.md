@@ -86,6 +86,6 @@ cd vue-learn
 
 ```
 git checkout master
-git pull https://github.com/dmitrykovaltsov/vue-learn.git master
+git pull https://github.com/dimondevs/vue-learn.git master
 git push origin master
 ```
